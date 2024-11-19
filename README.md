@@ -40,4 +40,4 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ## Authors
 
-The author of this project is [Unknown].
+The author of this project is Jeffuy.
